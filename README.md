@@ -25,4 +25,6 @@ Building my understanding of digital design fundamentals and hardware developmen
 
 ## Connect
 
-- GitHub: [@vaibhavmehtastu-2705](https://github.com/vaibhavmehtastu-2705)
+- 💻 GitHub: [vaibhavmehtastu-2705](https://github.com/vaibhavmehtastu-2705)
+- 💼 LinkedIn: [Vaibhav Mehta](https://www.linkedin.com/in/vaibhav-mehta-334315358/)
+- 📧 Email: [vaibhavmehta.stu@gmail.com](mailto:vaibhavmehta.stu@gmail.com)
