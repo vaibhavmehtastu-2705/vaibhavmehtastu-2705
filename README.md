@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Vaibhav Mehta 👋
 
-<!--
-**vaibhavmehtastu-2705/vaibhavmehtastu-2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring RTL Design & Verification Engineer
 
-Here are some ideas to get you started:
+I'm interested in digital design, RTL design, digital verification, and computer architecture. I'm using GitHub to document my learning, explore hardware design concepts, and share my work as I develop my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Areas of Interest
+
+- Digital Logic Design
+- Verilog and SystemVerilog
+- RTL Design and Verification
+- Computer Architecture
+- Memory Systems
+- Hardware Design Methodologies
+
+---
+
+## Currently Learning
+
+Building my understanding of digital design fundamentals and hardware development workflows.
+
+---
+
+## Connect
+
+- GitHub: [@vaibhavmehtastu-2705](https://github.com/vaibhavmehtastu-2705)
